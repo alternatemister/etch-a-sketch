@@ -1,0 +1,18 @@
+#container {
+    display: flex;
+    background-color: lightblue;
+    height: 475px;
+    width: 475px;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: space-around;
+    padding: 10px;
+
+}
+
+.grid {
+    height: 20px;
+    width: 20px;
+    background-color: white;    
+}
